@@ -3,7 +3,7 @@
   - Area of interest **Scalable and High Performing Software Systems**.
 
 - **My skills**
-  - Frontend: Angular | React | React Native | Unity 3D
+  - Frontend: React | React Native 
   - Backend:  Express | Nest
   - Databases: MongoDb | Postgres
   - Cloud Platform: AWS
