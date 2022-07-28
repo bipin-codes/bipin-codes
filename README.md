@@ -3,6 +3,7 @@
   - Area of interest **Scalable and High Performing Software Systems**.
 
 - **My skills**
+  - Programming Languages: JS | TS
   - Frontend: React | React Native 
   - Backend:  Express | Nest
   - Databases: MongoDb | Postgres
