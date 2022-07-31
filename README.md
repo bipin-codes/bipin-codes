@@ -9,8 +9,8 @@
   - Databases: MongoDb | Postgres
   - Cloud Platform: AWS
   - Additional: Scrum | TDD | CI CD
-- **Roadmap**
-  - Improve DSA (current).
+- **Roadmap (working on these as of now)**
+  - Improve DSA.
   - Build projects.
 - **Current Projects**
   - bipincodes.com [weekend side project]
